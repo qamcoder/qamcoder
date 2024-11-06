@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student curren
   🎓 Current Studies: Intermediate Computer Science (ICS) with a focus on Physics at Punjab College (PGC) in Sialkot, Pakistan.
   📚 CS Journey: Currently working through Harvard’s CS50x course to build a solid foundation in programming and computer science.
   💡 Interest Areas: Software development, ethical hacking, and creating efficient data structures.
-  🧠 Skills: Python, C, HTML/CSS, Flask, Git, and version control.
+  🧠 Skills: Python, C, HTML/CSS, Flask, Git, and version control. 
 🚀 Current Projects and Learning
   CS50 Assignments: Tackling Harvard’s CS50 problem sets and building projects that push my programming skills.
   Flask Web Development: Creating interactive web applications with Flask.
