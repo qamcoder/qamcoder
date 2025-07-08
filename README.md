@@ -1,27 +1,38 @@
-👋 Hello, I'm Ibrahim!
-Welcome to my GitHub profile! I’m a passionate Computer Science student currently diving deep into the world of software development, problem-solving, and technology exploration.
+👋 Hi, I’m Ibrahim Qamar
+Aspiring Software Developer | CS Student | Tech Enthusiast
 
-📖 About Me
-  🎓 Current Studies: Intermediate Computer Science (ICS) with a focus on Physics at Punjab College (PGC) in Sialkot, Pakistan.
-  📚 CS Journey: Currently working through Harvard’s CS50x course to build a solid foundation in programming and computer science.
-  💡 Interest Areas: Software development, ethical hacking, and creating efficient data structures.
-  🧠 Skills: Python, C, HTML/CSS, Flask, Git, and version control. 
-🚀 Current Projects and Learning
-  CS50 Assignments: Tackling Harvard’s CS50 problem sets and building projects that push my programming skills.
-  Flask Web Development: Creating interactive web applications with Flask.
-  MOS 100 Certification: Improving proficiency in MS Word and Excel through the MOS 100 course.
-🖥️ Technologies & Tools
-  Programming Languages: Python, C
-  Web Development: HTML, CSS, Flask
-  Tools: Git, VS Code, MS Word, Excel
-  Learning More About: JavaScript, databases (SQL), advanced Flask features
+📌 About Me
+I’m currently studying Intermediate Computer Science (ICS) with a focus on Physics at Punjab College, Sialkot, Pakistan. I’m deeply interested in software development, problem-solving, and exploring emerging technologies through hands-on learning.
+
+🧠 Skills & Technologies
+Programming: Python, C, sqlite3, Lua (Love2D)
+
+Web Development: HTML, CSS, JavaScript, Flask
+
+Tools & Platforms: Git, GitHub, VS Code, MS Word, Excel
+
+Currently Learning: Unity
+
+🚀 Projects & Learning
+CS50x – Harvard University: Completed the rigorous CS50x course to build a strong foundation in computer science and software engineering.
+
+Flask Web Apps: Developing interactive web applications using Flask and Python.
+
+MOS 100: Improving proficiency in Microsoft Excel and Word.
+
 🏆 Achievements
-  🏅 Scholarship Award: Proud recipient of a scholarship at PGC Sialkot.
-  ♟️ Chess Competitions: Active participant in chess events at my college.
-🌱 Goals
-  Short Term: Complete the CS50x course and deepen my understanding of algorithms.
-  Long Term: Become a skilled software developer and data engineer.
-📬 Connect with Me
-  Chess.com: broly-uchiha
-  Email: ibrahimqamar217@gmail.com
-  Thanks for visiting my GitHub! I’m always open to collaborating on exciting projects, so feel free to reach out.
+College Management System: Designed and built a web-based app for managing students, teachers, and attendance using Flask and SQLite.
+
+🎯 Goals
+Short-Term: Complete personal projects and deepen understanding of algorithms, systems, and OOP.
+
+Long-Term: Become a skilled software developer or data engineer, focused on building efficient and ethical technology solutions.
+
+📬 Let’s Connect
+📧 Email: ibrahimqamar217@gmail.com
+
+📷 Instagram: @ibrahim_qamarz
+
+💻 GitHub: @qamcoder
+
+Thanks for visiting my profile! I'm always open to learning, collaboration, and exciting new opportunities.
